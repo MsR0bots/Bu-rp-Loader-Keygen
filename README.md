@@ -28,6 +28,10 @@ Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 
 ### **Jar包未混淆，欢迎dalao们改进！**
 ## 食用方法
+### 命令行
+```
+java -jar Burploaderkeygen.jar [-a|-auto [0|1]] [-i|-ignore [0|1]] [-n|-name <UserName>]
+```
 ### Mac版食用方法
 0. 安装Mac版Burp
 1. 将注册机放置到`/Applications/Burp Suite Professional.app/Contents/Resources/app`目录下
